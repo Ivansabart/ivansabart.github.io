@@ -9,7 +9,7 @@ include_once 'plantilla/navbar.inc.php';
         <h1 class="text-center">Game</h1>
     </div>
     
-</div><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+</div><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <div class="container">
     <div class="row">
