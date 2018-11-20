@@ -37,7 +37,7 @@ include_once 'plantilla/navbar.inc.php';
             </div>
             <div class="panel-body">
                 <br>
-                                <img src="../img/sakura.png">
+                                <img src="1.jpg">
                                 
                 </div>
             </div>
